@@ -1,0 +1,12 @@
+C:\tools\repos\Sniffer1\bin\x64\Release\SharpSniffer.exe.config
+C:\tools\repos\Sniffer1\bin\x64\Release\SharpSniffer.exe
+C:\tools\repos\Sniffer1\bin\x64\Release\SharpSniffer.pdb
+C:\tools\repos\Sniffer1\obj\x64\Release\SharpSniffer.csproj.AssemblyReference.cache
+C:\tools\repos\Sniffer1\obj\x64\Release\SharpSniffer.csproj.CoreCompileInputs.cache
+C:\tools\repos\Sniffer1\obj\x64\Release\SharpSniffer.exe
+C:\tools\repos\Sniffer1\obj\x64\Release\SharpSniffer.pdb
+C:\tools\repos\SharpSniffer\bin\x64\Release\SharpSniffer.exe.config
+C:\tools\repos\SharpSniffer\bin\x64\Release\SharpSniffer.exe
+C:\tools\repos\SharpSniffer\obj\x64\Release\SharpSniffer.csproj.AssemblyReference.cache
+C:\tools\repos\SharpSniffer\obj\x64\Release\SharpSniffer.csproj.CoreCompileInputs.cache
+C:\tools\repos\SharpSniffer\obj\x64\Release\SharpSniffer.exe

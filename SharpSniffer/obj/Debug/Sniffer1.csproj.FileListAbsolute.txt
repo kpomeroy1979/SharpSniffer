@@ -1,0 +1,7 @@
+C:\tools\repos\Sniffer1\bin\Debug\Sniffer1.exe.config
+C:\tools\repos\Sniffer1\bin\Debug\Sniffer1.exe
+C:\tools\repos\Sniffer1\bin\Debug\Sniffer1.pdb
+C:\tools\repos\Sniffer1\obj\Debug\Sniffer1.csproj.AssemblyReference.cache
+C:\tools\repos\Sniffer1\obj\Debug\Sniffer1.csproj.CoreCompileInputs.cache
+C:\tools\repos\Sniffer1\obj\Debug\Sniffer1.exe
+C:\tools\repos\Sniffer1\obj\Debug\Sniffer1.pdb
